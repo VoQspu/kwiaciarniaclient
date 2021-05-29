@@ -3,7 +3,7 @@
 Simple florist shop application. Uses Java + Spring + H2 database as backend and TypeScript + Angular as frontend.
 Payments are made via PayPal sandbox.
 
-![Screen1](</Screenshot_2021-05-24 Kwiaciarniaclient.png>)
+![Screen8](</Screenshot_2021-05-24 Kwiaciarniaclient8.png>)
 ![Screen2](</Screenshot_2021-05-24 Kwiaciarniaclient2.png>)
 ![Screen3](</Screenshot_2021-05-24 Kwiaciarniaclient3.png>)
 ![Screen6](</Screenshot_2021-05-24 Kwiaciarniaclient6.png>)
