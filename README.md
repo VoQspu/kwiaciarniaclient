@@ -6,5 +6,7 @@ Payments are made via PayPal sandbox.
 ![Screen1](</Screenshot_2021-05-24 Kwiaciarniaclient.png>)
 ![Screen2](</Screenshot_2021-05-24 Kwiaciarniaclient2.png>)
 ![Screen3](</Screenshot_2021-05-24 Kwiaciarniaclient3.png>)
+![Screen6](</Screenshot_2021-05-24 Kwiaciarniaclient6.png>)
 ![Screen4](</Screenshot_2021-05-24 Kwiaciarniaclient4.png>)
 ![Screen5](</Screenshot_2021-05-24 Kwiaciarniaclient5.png>)
+![Screen7](</Screenshot_2021-05-24 Kwiaciarniaclient7.png>)
