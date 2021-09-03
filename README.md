@@ -1,6 +1,6 @@
 # Kwiaciarniaclient
 
-[![Kwiaciarniaclient pipeline](https://github.com/VoQspu/kwiaciarniaclient/actions/workflows/node.js.yml/badge.svg)](https://github.com/VoQspu/kwiaciarniaclient/actions/workflows/node.js.yml)
+[![Kwiaciarniaclient CI](https://github.com/VoQspu/kwiaciarniaclient/actions/workflows/node.js.yml/badge.svg)](https://github.com/VoQspu/kwiaciarniaclient/actions/workflows/node.js.yml) [![Kwiaciarniaclient Docker CI](https://github.com/VoQspu/kwiaciarniaclient/actions/workflows/docker-image.yml/badge.svg)](https://github.com/VoQspu/kwiaciarniaclient/actions/workflows/docker-image.yml)
 
 Simple florist shop application. Uses Java + Spring + H2 database as backend and TypeScript + Angular as frontend.
 Payments are made via PayPal sandbox.
